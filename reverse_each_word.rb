@@ -6,7 +6,7 @@ def reverse_each_word(string)
   while i < new.length 
     new.each {|s| s[0].reverse}
     i +=1
-    
+    new 
   end  
-  
+  new 
 end

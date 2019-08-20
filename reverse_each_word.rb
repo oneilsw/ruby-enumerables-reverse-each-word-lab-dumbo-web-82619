@@ -8,5 +8,5 @@ def reverse_each_word(string)
     i +=1
     new 
   end  
-  new 
+  new  
 end
